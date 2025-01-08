@@ -1,7 +1,7 @@
 ## 👋✨ Hi there, I'm Vrutti Patil!
 
 ### 🌟💻 About Me  
-Hey there! 😊 I'm a 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I ❤️ bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.
+Hey there! 😊 I'm a upcoming 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I ❤️ bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.
 
 ### 💻🛠️ Tech Stack  
 - 🐍 **Languages:** Python, C++, JavaScript  

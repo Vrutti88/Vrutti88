@@ -1,7 +1,7 @@
 ## 👋✨ Hi there, I'm Vrutti Patil!
 
 ### 🌟💻 About Me  
-Hey there! 😊 I'm a upcoming 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I ❤️ bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.
+Hey there! 😊 I'm a upcoming 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I like bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.
 
 ### 💻🛠️ Tech Stack  
 - 🐍 **Languages:** Python, C++, JavaScript  
@@ -14,7 +14,7 @@ I've had the opportunity to 🌟 contribute to some amazing 🌍 websites:
 - 🖥️ [SpoilerHB](#)  
 - 🖥️ [Diazone](#)  
 
-### 🚀❤️ What I Love  
+### 🚀 What I Love  
 - 🛠️ Building interactive and 👩‍💻 user-friendly web 🌐 applications  
 - 🚀 Exploring 🆕 technologies  
 - 🧩 Solving 🧠 challenging problems  

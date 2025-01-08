@@ -1,4 +1,4 @@
-## 👋✨ Hi there, I'm [Your Name]!
+## 👋✨ Hi there, I'm Vrutti Patil!
 
 ### 🌟💻 About Me  
 Hey there! 😊 I'm a 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I ❤️ bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.

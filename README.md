@@ -6,7 +6,7 @@ Hey there! 😊 I'm a upcoming 💻 developer with a strong 🧠 foundation in �
 ### 💻🛠️ Tech Stack  
 - 🐍 **Languages:** Python, C++, Java 
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 🔥 **Tools & Platforms:** Firebase, 🧩 Scratch Programming  
+- 🔥 **Tools & Platforms:** Firebase, 🧩 Scratch Programming, DBMS, Figma  
 - 🧠 **Skills:** 🧩 Problem Solving, 🌍 Web Development, 🤝 Collaboration  
 
 ### 🌐✨ Contributions  

@@ -4,7 +4,7 @@
 Hey there! 😊 I'm a upcoming 💻 developer with a strong 🧠 foundation in 🐍 programming and 🧩 problem-solving. I like bringing 💡 creative ideas to life through 💬 code and 🤝 collaborating on exciting projects.
 
 ### 💻🛠️ Tech Stack  
-- 🐍 **Languages:** Python, C++, JavaScript  
+- 🐍 **Languages:** Python, C++, Java 
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - 🔥 **Tools & Platforms:** Firebase, 🧩 Scratch Programming  
 - 🧠 **Skills:** 🧩 Problem Solving, 🌍 Web Development, 🤝 Collaboration  
